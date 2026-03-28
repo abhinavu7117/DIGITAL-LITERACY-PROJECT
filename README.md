@@ -41,4 +41,4 @@ Prepared a phishing case study and prevention checklist.
 ---
 
 ## 🔗 Google Form Link
-(Paste your Google Form link here later)
+https://forms.gle/2BmNoDvZRmUmV8o6A
