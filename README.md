@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio
 
-**Name:** ABHINAV  
-**Reg No.:** [Enter Your Reg No.]  
-**Branch:** B.Tech (Your Branch)  
+**Name:** ABHINAV UPADHYAY
+**Reg No.:** 25BAI10090  
+**Branch:** B.Tech CSE AIML  
 **Year:** 1st Year  
 
 ---
