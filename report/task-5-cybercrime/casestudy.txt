@@ -1,4 +1,0 @@
-Phishing is a type of cybercrime where scammers try to trick people into giving their personal information like passwords, bank details, or OTPs. They usually do this by sending fake emails or messages that look real.
-For example, a student might receive an email that looks like it’s from their bank or a popular app. The message may say something like “Your account will be blocked, click here to verify.” When the student clicks the link, it opens a fake website that looks exactly like the original one. If the student enters their login details, the scammer gets access to their account.
-Many students fall for this because the messages look genuine and sometimes create panic. The result can be loss of money, hacked accounts, or misuse of personal data.
-Phishing attacks are increasing day by day and are becoming harder to identify. So, it’s really important to stay alert and not trust every link or message we receive online.
